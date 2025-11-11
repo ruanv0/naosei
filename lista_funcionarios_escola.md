@@ -29,7 +29,7 @@ Escola Centro Educa Mais Júlio de Mesquita Filho
 27. Maria Ribamar (gestora)
 28. Pessoa sem nome 4 (professora de inglês)
 29. Pessoa sem nome 6 (professora de matemática)
-30. Pessoa sem nome 10 (porteiro da escola)
+30. Pessoa sem nome 10 (porteiro da escola, "parceria", "ficha")
 31. Pessoa sem nome 11 (tempo espaço, tempo e espaço)
 32. Raquel (professora de matemática)
 33. Renato Ferreira C. (professor de português)
